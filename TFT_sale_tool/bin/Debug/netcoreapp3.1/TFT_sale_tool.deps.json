@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TFT_sale_tool/1.0.0": {
+        "runtime": {
+          "TFT_sale_tool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TFT_sale_tool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
